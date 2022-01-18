@@ -1,0 +1,11 @@
+{
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#283100",
+        "titleBar.activeBackground": "#394400",
+        "titleBar.activeForeground": "#F5FFC8"
+    },
+    "cSpell.words": [
+        "graphiql"
+    ],
+    "restructuredtext.confPath": ""
+}
